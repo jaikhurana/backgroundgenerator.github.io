@@ -1,0 +1,16 @@
+body{
+    font-family: 'sans-serief';
+    background-image:linear-gradient(to right,red,yellow);
+    
+    text-align: center;
+}
+h1{
+    width:100%;
+    letter-spacing: .5em;
+    font-size: 3.5em;
+
+}
+h2{
+    font-size: 2em;
+    letter-spacing: 0.01em;
+}
